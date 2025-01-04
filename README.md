@@ -2,7 +2,7 @@
 
 ## Daily habit tracker
 
-### Link: https://www.dailyhabits.dev/
+### Link: [https://www.dailyhabits.dev/](https://www.dailyhabits.dev/habits)
 
 This is a simple, minimalistic app that lets you track your daily habits.
 
